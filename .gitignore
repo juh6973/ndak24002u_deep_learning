@@ -225,3 +225,8 @@ __marimo__/
 # Env files
 *.env
 *.DS_Store
+
+# Media files
+figures/
+*.png
+*.gif
