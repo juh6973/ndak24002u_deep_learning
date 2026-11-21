@@ -230,3 +230,7 @@ __marimo__/
 figures/
 *.png
 *.gif
+
+# Datasets and W&B run files
+data/
+wandb/
