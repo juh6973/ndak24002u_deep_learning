@@ -234,3 +234,12 @@ figures/
 # Datasets and W&B run files
 data/
 wandb/
+
+# LaTeX report sources and build files
+*.tex
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
